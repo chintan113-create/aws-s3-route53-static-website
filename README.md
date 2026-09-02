@@ -19,7 +19,7 @@ I deployed a static website on AWS using Amazon S3 and configured Amazon Route 5
 
 ## Live Website
 
-[View the live website](YOUR-WEBSITE-LINK-HERE)
+[View the live website](http://chintanpateldev.com/)
 
 ## Skills Demonstrated
 
